@@ -16,6 +16,7 @@ public class CCuenta {
     private double saldo;
     /*Variable que almacena el valor del interes de la cuenta*/
     private double tipoInteres;
+    private double probanso;
 
     /**
      * Constructor vacio de la clase cuenta
